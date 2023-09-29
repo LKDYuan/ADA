@@ -1,0 +1,5 @@
+Why does the a parameter define the mean and the standard deviation, the scale
+
+why does a git pull doesn't overwrite my exercise's files?
+
+Why does the skewness  changes the mean of the pdf?
